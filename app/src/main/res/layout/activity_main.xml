@@ -34,7 +34,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
-                android:text="Manuel A. Santisteban Coronel"
+                android:text="Manuel Antonio Santisteban Coronel"
                 android:textColor="#FF4600"
                 android:textSize="20sp" />
 
